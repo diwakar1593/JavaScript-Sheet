@@ -5,3 +5,4 @@
  --- | --- | --- | --- | ---
  [Question-6](Day1/answer6.js) | [Question-7](Day1/answer7.js) | [Question-3] | [Question-4] | [Question-5] 
  [Question-6](Day1/answer6.js) | [Question-7](Day1/answer7.js) | [Question-3] | [Question-4] | [Question-5] 
+ [Question-6](Day1/answer6.js) | [Question-7](Day1/answer7.js) | [Question-3] | [Question-4] | [Question-5] 
