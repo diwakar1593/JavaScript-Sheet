@@ -1,6 +1,5 @@
 # JavaScript-Sheet
 ## Problems
 ### Day1
-- Question-1 :  Write a single line comment which says, comments can make code readable
-- Question-2 :  Write another single comment which says, Welcome to 30DaysOfJavaScript
-- Question-3 :  Write a multiline comment which says, comments can make code readable, easy to reuse and informative
+ [Question-1](Day1/answer1.js) | [Question-2](Day1/answer2.js) | [Question-3](Day1/answer3.js)
+ --- | --- | ---
