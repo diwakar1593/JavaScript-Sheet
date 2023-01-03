@@ -1,4 +1,8 @@
-let firstName = 'Diwakar', lastName = 'Kumar', isMarried = false, country = 'India', age = '22'
+let firstName = 'Diwakar', 
+lastName = 'Kumar', 
+isMarried = false, 
+country = 'India', 
+age = '22'
 
 console.log(firstName);
 console.log(lastName);
