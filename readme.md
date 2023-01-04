@@ -15,4 +15,4 @@
 #### Level-1
 | [Question-1](Day2/Medium/answer1.js) | [Question-2](Day2/Medium/answer2.js) | [Question-3](Day2/Medium/answer3.js) | [Question-4](Day2/Medium/answer4.js) | [Question-5](Day2/Medium/answer5.js) | [Question-6](Day2/Easy/answer6.js) |
 | --- | --- | --- | --- | --- |--- |
-| [Question-7](Day2/Medium/answer7.js) | [Question-8] | [Question-9] | [Question-10] | [Question-11] |  [Question-12] |
+| [Question-7](Day2/Medium/answer7.js) | [Question-8](Day2/Medium/answer8.js) | [Question-9](Day2/Medium/answer9.js) | [Question-10] | [Question-11] |  [Question-12] |
