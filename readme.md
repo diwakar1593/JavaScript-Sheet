@@ -16,3 +16,6 @@
 | [Question-1](Day2/Medium/answer1.js) | [Question-2](Day2/Medium/answer2.js) | [Question-3](Day2/Medium/answer3.js) | [Question-4](Day2/Medium/answer4.js) | [Question-5](Day2/Medium/answer5.js) | [Question-6](Day2/Easy/answer6.js) |
 | --- | --- | --- | --- | --- |--- |
 | [Question-7](Day2/Medium/answer7.js) | [Question-8](Day2/Medium/answer8.js) | [Question-9](Day2/Medium/answer9.js) | [Question-10](Day2/Medium/answer10.js) | [Question-11](Day2/Medium/answer11.js) |  [Question-12](Day2/Medium/answer12.js) |
+#### Level-3
+| [Question-1](Day2/Hard/answer1.js) | [Question-2](Day2/Hard/answer2.js) | [Question-3](Day2/Hard/answer3.js) | [Question-4](Day2/Hard/answer4.js) |
+| --- | --- | --- | --- |
