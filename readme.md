@@ -7,7 +7,7 @@
 ### Day-2
 #### Level-1
 | [Question-1](Day2/Easy/answer1.js) | [Question-2](Day2/Easy/answer2.js) | [Question-3](Day2/Easy/answer3.js) | [Question-4](Day2/Easy/answer4.js) | [Question-5](Day2/Easy/answer5.js) |
-| --- | --- | --- | --- | ---
+| --- | --- | --- | --- | --- |
 | [Question-6](Day2/Easy/answer6.js) | [Question-7](Day2/Easy/answer7.js) | [Question-8](Day2/Easy/answer8.js) | [Question-9](Day2/Easy/answer9.js) | [Question-10](Day2/Easy/answer10.js) |
 | [Question-11](Day2/Easy/answer11.js) | [Question-12](Day2/Easy/answer12.js) | [Question-13](Day2/Easy/answer13.js) | [Question-14](Day2/Easy/answer14.js) | [Question-15](Day2/Easy/answer15.js) |
 | [Question-16](Day2/Easy/answer16.js) | [Question-17](Day2/Easy/answer17.js) | [Question-18](Day2/Easy/answer18.js) | [Question-19](Day2/Easy/answer19.js) | [Question-20](Day2/Easy/answer20.js) |
@@ -19,3 +19,16 @@
 #### Level-3
 | [Question-1](Day2/Hard/answer1.js) | [Question-2](Day2/Hard/answer2.js) | [Question-3](Day2/Hard/answer3.js) | [Question-4](Day2/Hard/answer4.js) |
 | --- | --- | --- | --- |
+### Day-3
+#### Level-1
+| [Question-1](Day3/Easy/answer1.js) | [Question-2](Day3/Easy/answer2.js) | [Question-3](Day3/Easy/answer3.js) | [Question-4](Day3/Easy/answer4.js) |
+| --- | --- | --- | --- |
+| [Question-5](Day3/Easy/answer5.js) | [Question-6](Day3/Easy/answer6.js) | [Question-7](Day3/Easy/answer7.js) | |
+#### Level-2
+| [Question-1](Day3/Medium/answer1.js) | [Question-2](Day3/Medium/answer2.js) | [Question-3](Day3/Medium/answer3.js) | [Question-4](Day3/Medium/answer4.js) | [Question-5](Day3/Medium/answer5.js) |
+| --- | --- | --- | --- | --- |
+| [Question-6](Day3/Medium/answer6.js) | [Question-7](Day3/Medium/answer7.js) | [Question-8](Day3/Medium/answer8.js) | [Question-9](Day3/Medium/answer9.js) | [Question-10](Day3/Medium/answer10.js) |
+| [Question-11](Day3/Medium/answer11.js) | [Question-12](Day3/Medium/answer12.js) | [Question-13](Day3/Medium/answer13.js) | [Question-14](Day3/Medium/answer14.js) | [Question-15](Day3/Medium/answer15.js) |
+#### Level-3
+| [Question-1](Day3/Hard/answer1.js) |
+| --- |
