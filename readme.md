@@ -32,3 +32,13 @@
 #### Level-3
 | [Question-1](Day3/Hard/answer1.js) |
 | --- |
+### Day-4
+#### Level-1
+| [Question-1](Day4/Easy/answer1.js) | [Question-2](Day4/Easy/answer2.js) | [Question-3](Day4/Easy/answer3.js) | [Question-4](Day4/Easy/answer4.js) |
+| --- | --- | --- | --- |
+#### Level-2
+| [Question-1](Day4/Medium/answer1.js) | [Question-2](Day4/Medium/answer2.js) | [Question-3](Day4/Medium/answer3.js) |
+| --- | --- | --- |
+#### Level-3
+| [Question-1](Day4/Hard/answer1.js) | [Question-2](Day4/Hard/answer2.js) |
+| --- | --- |
