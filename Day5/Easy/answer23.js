@@ -1,11 +1,5 @@
 /* Remove all IT companies.*/
 
-const itCompanies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
-itCompanies.pop()
-itCompanies.pop()
-itCompanies.pop()
-itCompanies.pop()
-itCompanies.pop()
-itCompanies.pop()
+const itCompanies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'];
 
-console.log(itCompanies)
+console.log(itCompanies.splice(0, itCompanies.length));

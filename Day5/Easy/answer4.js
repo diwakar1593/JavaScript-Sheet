@@ -5,7 +5,7 @@
 const arr = ['HTML','CSS','JS','React','Node']
 let firstItem = arr[0]
 console.log(firstItem)
-let middleIndex = (arr.length-1)/2
+let middleIndex = Math.floor(arr.length/2);
 let middleItem = arr[middleIndex]
 console.log(middleItem)
 let lastIndex = arr.length - 1
