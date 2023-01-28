@@ -18,8 +18,7 @@ const webTechs = [
 const arr =[[]];
 
 for(let i=0; i<webTechs.length; i++){
-    arr[i][0].push(webTechs[i]);
-    arr[i][1].push(webTechs[i].length);
+    arr.push(webTechs[i],webTechs[i].length);
 }
 
 console.log(arr)
